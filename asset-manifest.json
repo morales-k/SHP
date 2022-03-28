@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SHP/static/css/main.23548b39.css",
+    "main.js": "/SHP/static/js/main.bd63bd5e.js",
+    "static/js/787.289eee41.chunk.js": "/SHP/static/js/787.289eee41.chunk.js",
+    "static/media/Hero.webp": "/SHP/static/media/Hero.8183b6859d87a40a072b.webp",
+    "static/media/HP_Turmeric.webp": "/SHP/static/media/HP_Turmeric.e0aeb2fd153c2fb2c06a.webp",
+    "static/media/HP_Prebiotics.webp": "/SHP/static/media/HP_Prebiotics.05f4b3042b983f6a0951.webp",
+    "static/media/HP_Magnesium.webp": "/SHP/static/media/HP_Magnesium.239a6c54849878274a6a.webp",
+    "static/media/SW1371.webp": "/SHP/static/media/SW1371.09c546671f1bbee730b1.webp",
+    "static/media/SW1613.webp": "/SHP/static/media/SW1613.34897e1202a564f5245b.webp",
+    "static/media/SWA051.webp": "/SHP/static/media/SWA051.e99395fbb24f1469d066.webp",
+    "static/media/SW1113.webp": "/SHP/static/media/SW1113.e2d29b22395e3b29ae02.webp",
+    "static/media/DELIVERYINS01.webp": "/SHP/static/media/DELIVERYINS01.dc4154e23f7247544fd7.webp",
+    "index.html": "/SHP/index.html",
+    "main.23548b39.css.map": "/SHP/static/css/main.23548b39.css.map",
+    "main.bd63bd5e.js.map": "/SHP/static/js/main.bd63bd5e.js.map",
+    "787.289eee41.chunk.js.map": "/SHP/static/js/787.289eee41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23548b39.css",
+    "static/js/main.bd63bd5e.js"
+  ]
+}
